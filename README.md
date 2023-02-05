@@ -3,6 +3,12 @@
   <h1 align="center">
     Oi pessoa, Eu sou o Nickolas Maia
   </h1>
+   <div>
+   <a href="https://github.com/nickolss">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickolss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolss&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
 </div>
 
 <div align="center" valign="top"><br>
