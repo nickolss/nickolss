@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cbb9ea&height=120&section=header&text=Nickolas%20Maia&fontColor=5d65ce"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad5bff&height=120&section=header&text=Nickolas%20Maia&fontColor=d8cbe6"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8266b4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Pessoa!;Sou+estudante+da+ETEC+ZL+:%29;Seja+Bem+Vindo/a!)](https://git.io/typing-svg)
 
@@ -11,4 +11,4 @@
 <a href="www.instagram.com/n1ck_maya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cbb9ea&height=120&section=footer"/>****
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad5bff&height=120&section=footer"/>****
