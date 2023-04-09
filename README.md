@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">  
-<a href="www.instagram.com/n1ck_maya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="www.instagram.com/n1ck_maya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="www.instagram.com/n1ck_maya"</a>
 </div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad5bff&height=120&section=footer"/>
