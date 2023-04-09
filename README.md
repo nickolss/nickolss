@@ -1,47 +1,14 @@
-<div>
-  
-  <h1 align="center">
-    Oi pessoa, Eu sou o Nickolas Maia
-  </h1>
-   <div style="margin: auto;">
-   <a href="https://github.com/nickolss">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickolss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolss&layout=compact&langs_count=6&theme=tokyonight"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cbb9ea&height=120&section=header&text=Nickolas%20Maia&fontColor=5d65ce"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8266b4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Pessoa!;Sou+estudante+da+ETEC+ZL+:%29;Seja+Bem+Vindo/a!)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nickolss&show_icons=true&count_private=true&hide_border=true&title_color=8266b4&icon_color=cbb9ea&text_color=8266b4&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolss&layout=compact&hide_border=true&title_color=8266b4&text_color=8266b4&bg_color=0d1117" />
 </div>
 
-<div align="center" valign="top"><br>
-  
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
-</div><br>
-
-<div align="center">
-  <a href="https://www.instagram.com/n1ck_maya/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:nickolasmaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">  
+<a href="www.instagram.com/n1ck_maya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cbb9ea&height=120&section=footer"/>****
