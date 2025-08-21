@@ -19,7 +19,7 @@
 ---
 
 <div align="center"> 
-  <a href = "mailto:nickolasmaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230d1117?style=for-the-badge&logo=gmail&logoColor=ad5bff" target="_blank"></a>
+  <a href = "mailto:nickolasmaiaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230d1117?style=for-the-badge&logo=gmail&logoColor=ad5bff" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nickolas-maia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230d1117?style=for-the-badge&logo=linkedin&logoColor=ad5bff" target="_blank"></a> 
 </div>
 
